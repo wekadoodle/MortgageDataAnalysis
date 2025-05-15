@@ -8,7 +8,7 @@ The project aims to provide insights into mortgage data by performing various da
 
 ## Dataset
 
-The dataset used in this project is sourced from Freddie Mac's 2023 historical data. It provides comprehensive information on mortgage loans, which is crucial for the analysis.
+The dataset used in this project is sourced from Freddie Mac's 2023 historical data. Due to size constraints, the dataset is not included in this repository. You can download the dataset directly from [Freddie Mac's official website](https://freddiemac.com).
 
 ## Setup
 
@@ -20,13 +20,13 @@ The dataset used in this project is sourced from Freddie Mac's 2023 historical d
 
 ## Usage
 
-1. **Run the Jupyter Notebook**: Open and execute `[ISCS30_19]_Project_1.ipynb` to perform the analysis.
-2. **Dataset**: The dataset `historical_data_2023.csv` is used for analysis. Ensure it is in the same directory as the notebook.
+1. **Download the Dataset**: Obtain the dataset from Freddie Mac's website and place it in the same directory as the notebook.
+2. **Run the Jupyter Notebook**: Open and execute `[ISCS30_19]_Project_1.ipynb` to perform the analysis.
 
 ## Project Structure
 
 - **`[ISCS30_19]_Project_1.ipynb`**: Jupyter notebook containing the analysis.
-- **`historical_data_2023.csv`**: Dataset used for analysis.
+- **`ISCS30.19.pdf`**: PDF document showing the results of the analysis.
 
 ## License
 
