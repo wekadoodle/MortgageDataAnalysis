@@ -1,6 +1,6 @@
 # Historical Mortgage Data Analysis
 
-This project involves analyzing historical mortgage data using Python. The analysis includes data cleaning, feature selection, and statistical analysis.
+This project involves analyzing historical mortgage data using Python. The analysis includes data cleaning, feature selection, and statistical analysis. This work was completed as part of a project for my Big Data Analysis class.
 
 ## Project Description
 
