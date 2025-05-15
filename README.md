@@ -6,6 +6,10 @@ This project involves analyzing historical mortgage data using Python. The analy
 
 The project aims to provide insights into mortgage data by performing various data analysis techniques. It involves combining quarterly data files, selecting relevant features, and checking for data consistency and unexpected values.
 
+## Dataset
+
+The dataset used in this project is sourced from Freddie Mac's 2023 historical data. It provides comprehensive information on mortgage loans, which is crucial for the analysis.
+
 ## Setup
 
 1. **Python Installation**: Ensure you have Python installed on your system.
